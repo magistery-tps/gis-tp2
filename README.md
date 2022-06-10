@@ -1,5 +1,10 @@
 # Gis TP 2
 
+## Notebooks
+
+* [Descargar Dataset](https://github.com/magistery-tps/gis-tp2/blob/main/notebooks/dataset.ipynb)
+
+
 ## Requisites
 
 * [Orfeo toolbox](https://gist.github.com/adrianmarino/d471f961d789d79270d3f2631d017bd7)
