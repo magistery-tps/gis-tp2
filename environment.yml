@@ -1,0 +1,13 @@
+name: gis-tp2
+channels:
+    - defaults
+    - pytorch
+    - conda-forge
+dependencies:
+    - seaborn
+    - matplotlib
+    - numpy
+    - pandas
+    - jupyterlab
+    - pip
+    - pip:
