@@ -2,7 +2,7 @@
 
 ## Notebooks
 
-* [Descargar Dataset](https://github.com/magistery-tps/gis-tp2/blob/main/notebooks/dataset.ipynb)
+* [Descargar dataset](https://github.com/magistery-tps/gis-tp2/blob/main/notebooks/dataset.ipynb)
 
 
 ## Requisites
