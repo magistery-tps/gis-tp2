@@ -1,6 +1,6 @@
 # UBA - Maestria en Explotación de Datos y Descubrimiento de Conocimiento - Sistemas de información geografica
 
-## Trabajo Práctico N° 2 - Clasificación de imágenes satelitales para la detección de cultivos y cuantificación de áreas sembradas en Argentina
+## TP 2 - Clasificación de imágenes satelitales para la detección de cultivos y cuantificación de áreas sembradas en Argentina
 
 ### Notebooks:
 
