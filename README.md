@@ -1,4 +1,4 @@
-# Gis TP 2
+# Trabajo Práctico N° 2 - Clasificación de imágenes satelitales para la detección de cultivos y cuantificación de áreas sembradas en Argentina
 
 ## Notebooks:
 
