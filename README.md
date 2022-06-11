@@ -19,8 +19,9 @@
 ### Requisites
 
 * [Orfeo toolbox](https://gist.github.com/adrianmarino/d471f961d789d79270d3f2631d017bd7)
-* QGis (Optional)
 * [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+* [QGis](https://www.qgis.org) (Optional)
+* [DB Browser for SQLite](https://sqlitebrowser.org) (Optional)
 
 ### Getting started
 
