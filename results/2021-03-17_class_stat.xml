@@ -1,11 +1,13 @@
 <?xml version="1.0" ?>
 <GeneralStatistics>
     <Statistic name="samplesPerClass">
-        <StatisticMap key="ALFALFA" value="2" />
-        <StatisticMap key="CAMPONATUR" value="18" />
-        <StatisticMap key="GIRASOL" value="32" />
-        <StatisticMap key="MAIZ" value="246" />
-        <StatisticMap key="SOJA" value="168" />
+        <StatisticMap key="1" value="134" />
+        <StatisticMap key="10" value="2" />
+        <StatisticMap key="2" value="107" />
+        <StatisticMap key="20" value="18" />
+        <StatisticMap key="3" value="139" />
+        <StatisticMap key="4" value="34" />
+        <StatisticMap key="5" value="32" />
     </Statistic>
     <Statistic name="samplesPerVector">
         <StatisticMap key="0" value="1" />
