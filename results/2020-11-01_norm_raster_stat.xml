@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<FeatureStatistics>
+    <Statistic name="mean">
+        <StatisticVector value="0.077316" />
+        <StatisticVector value="0.104465" />
+        <StatisticVector value="0.127616" />
+        <StatisticVector value="0.253876" />
+        <StatisticVector value="0.265029" />
+        <StatisticVector value="0.318965" />
+        <StatisticVector value="0.255314" />
+    </Statistic>
+    <Statistic name="min">
+        <StatisticVector value="0.0001" />
+        <StatisticVector value="0.0001" />
+        <StatisticVector value="0.0001" />
+        <StatisticVector value="0.0014" />
+        <StatisticVector value="0.0001" />
+        <StatisticVector value="0.0019" />
+        <StatisticVector value="0.0013" />
+    </Statistic>
+    <Statistic name="max">
+        <StatisticVector value="1.848" />
+        <StatisticVector value="1.8208" />
+        <StatisticVector value="1.72" />
+        <StatisticVector value="1.6248" />
+        <StatisticVector value="1.5872" />
+        <StatisticVector value="1.3226" />
+        <StatisticVector value="1.5124" />
+    </Statistic>
+    <Statistic name="stddev">
+        <StatisticVector value="0.025387" />
+        <StatisticVector value="0.0274923" />
+        <StatisticVector value="0.0468042" />
+        <StatisticVector value="0.050141" />
+        <StatisticVector value="0.0507984" />
+        <StatisticVector value="0.0813999" />
+        <StatisticVector value="0.0845822" />
+    </Statistic>
+</FeatureStatistics>

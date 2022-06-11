@@ -1,15 +1,16 @@
 # Gis TP 2
 
-## Notebooks
+## Notebooks:
 
-* [Descargar dataset](https://github.com/magistery-tps/gis-tp2/blob/main/notebooks/dataset.ipynb)
-
+* [Download dataset](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/dataset.ipynb)
+* [Pixel Clasification](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
 
 ## Requisites
 
 * [Orfeo toolbox](https://gist.github.com/adrianmarino/d471f961d789d79270d3f2631d017bd7)
 * QGis (Optional)
 * [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+* [Orfeo Toolbox](https://gist.github.com/adrianmarino/d471f961d789d79270d3f2631d017bd7)
 
 ## Getting started
 
