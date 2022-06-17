@@ -11,5 +11,6 @@ dependencies:
     - jupyterlab
     - gdal
     - sqlite
+    - sqlparse
     - pip
     - pip:
