@@ -5,7 +5,9 @@
 ### Notebooks:
 
 * [Download dataset](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/dataset.ipynb)
-* [Pixel Clasification](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
+* Pixel Clasification 
+    * [Utilizando OTB](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
+    * [Utilizando deep learning](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification-2.ipynb)
 
 ### Links
 
