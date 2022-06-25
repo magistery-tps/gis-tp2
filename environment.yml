@@ -12,5 +12,6 @@ dependencies:
     - gdal
     - sqlite
     - sqlparse
+    - scikit-learn
     - pip
     - pip:
