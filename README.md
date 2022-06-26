@@ -9,7 +9,11 @@
     * [Utilizando OTB](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
     * [Utilizando un modelo estadistico](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/clasificador_estadistico.ipynb)
     * [Utilizando deep learning](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification-2.ipynb)
-    * [Orange DM Project](https://github.com/magistery-tps/gis-tp2/blob/main/orange-project.ows)
+
+### Analisis con Orange DM
+ 
+* [Orange DM Project](https://github.com/magistery-tps/gis-tp2/blob/main/orange-project.ows)
+* [Resultados](https://docs.google.com/document/d/1X5HmZg_e37KCm9dcRhPinQeWEgeBwduzGbRHXTOYlA4/edit?usp=sharing)
 
 ### Links
 
