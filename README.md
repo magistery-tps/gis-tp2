@@ -9,6 +9,7 @@
     * [Utilizando OTB](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
     * [Utilizando un modelo estadistico](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/clasificador_estadistico.ipynb)
     * [Utilizando deep learning](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification-2.ipynb)
+    * [Orange DM Project](https://github.com/magistery-tps/gis-tp2/blob/main/orange-project.ows)
 
 ### Links
 
@@ -21,6 +22,7 @@
 
 ### Requisites
 
+* [Orange Datamining](https://orangedatamining.com/download/#linux)
 * [Orfeo toolbox](https://gist.github.com/adrianmarino/d471f961d789d79270d3f2631d017bd7)
 * [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 * [QGis](https://www.qgis.org) (Optional)
