@@ -130,4 +130,4 @@ dmypy.json
 datasets/
 *.tif
 results/predictions.csv
-
+results/predictions_masked.csv
