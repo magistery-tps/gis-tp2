@@ -53,10 +53,10 @@ $ cd gis-tp2
 $ conda env create -f environment.yml
 ```
 
-**Step 3**: Extract verdad de campo.
+**Step 3**: Extract `verdad_campo_augmented`.
 
-```bashverdad_campo_augmented.tar.gz
-$ mkdor -p datasets/data
+```bash
+$ mkdir -p datasets/data
 $ tar zxfv verdad_campo_augmented.tar.gz -C datasets/data
 ```
 
