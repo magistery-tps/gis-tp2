@@ -52,12 +52,6 @@ $ cd gis-tp2
 $ conda env create -f environment.yml
 ```
 
-**Step 3**: Extract `verdad_campo_augmented`.
-
-```bash
-$ mkdir -p datasets/data
-$ tar zxfv verdad_campo_augmented.tar.gz -C datasets/data
-```
 
 ## See notebooks in jupyter lab
 
