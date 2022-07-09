@@ -2,6 +2,10 @@
 
 ## TP 2 - Clasificación de imágenes satelitales para la detección de cultivos y cuantificación de áreas sembradas en Argentina
 
+## Informe
+
+* [Google Docs](https://docs.google.com/document/d/1mUeEoCTk2aUe1CdnY4_59gIrKjuVLAEfztIrKQQddIw/edit)
+
 ### Notebooks:
 
 * [Download dataset](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/dataset.ipynb)
