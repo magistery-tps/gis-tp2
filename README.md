@@ -55,13 +55,21 @@ $ conda env create -f environment.yml
 
 ## See notebooks in jupyter lab
 
-**Step 1**: Enable project environment.
+**Step 3**: Enable project environment.
 
 ```bash
 $ conda activate gis-tp2
 ```
+## See notebooks in jupyter lab
 
-**Step 2**: Under project directory boot jupyter lab.
+**Step 4**: Enable project environment.
+
+```bashverdad_campo_augmented.tar.gz
+$ mkdor -p datasets/data
+$ tar zxfv verdad_campo_augmented.tar.gz -C datasets/data
+```
+
+**Step 5**: Under project directory boot jupyter lab.
 
 ```bash
 $ jupyter lab
