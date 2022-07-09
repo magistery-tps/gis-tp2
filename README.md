@@ -4,6 +4,7 @@
 
 ## Docs
 
+* [Consignas](https://github.com/magistery-tps/gis-tp2/blob/main/docs/GIS-UBA-DM%20-%20TP%20Teledeteccion%202022.pdf)
 * [Informe](https://docs.google.com/document/d/1mUeEoCTk2aUe1CdnY4_59gIrKjuVLAEfztIrKQQddIw/edit)
 * [Slides](https://docs.google.com/presentation/d/1OdzsCRjEnG4lj5ykj4cAIZBxoSDEKOhnLdodxRFtOUI/edit?usp=sharing)
 
