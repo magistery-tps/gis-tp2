@@ -10,7 +10,7 @@
 
 * [Download dataset](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/dataset.ipynb)
 * Pixel Clasification
-    * [Preprocesamiento y clasificacion utilizando OTB](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
+    * [Preprocesamiento y clasificación utilizando OTB](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/pixel-clasification.ipynb)
     * [Utilizando un modelo estadistico](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/clasificador_estadistico.ipynb)
     * [Utilizando un modelo estadistico 2](https://github.com/magistery-tps/gis-tp2/tree/main/notebooks/clasificador_estadistico_2.ipynb): Similar al anterior. En lugar de mostrar las diferentes medias y std para cada cada cultivo en cada mes y para cada indice, mostramos la variacion entre meses consecutivos. Es decir, cuanto varia en promedio por ejemplo, el ndvi para maiz de octubre a noviembre
     
